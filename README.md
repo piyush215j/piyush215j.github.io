@@ -1,5 +1,8 @@
 # nuralcode
 developer(piyush)
-technologies:-java, html, css,
+languages:-java, html, css.
+technologies:-ui/ux developer, embidded system,web development.
 codeveloper(paras)
-technologies:-java, html, css,
+languages:-java, html, css
+technologies:-web development.
+
