@@ -1,0 +1,23 @@
+*{
+   margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+
+ul{
+  list-style-type: none;
+}
+.logo{
+  width: 150px;
+  height:auto
+
+}
+.banner{
+height: 100vh;
+width: 100%;
+background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0)),url(background-img2.webp);
+background-size: cover;
+background-position: center;
+}
